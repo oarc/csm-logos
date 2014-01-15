@@ -10,7 +10,6 @@ Type "make" to magically generate bitmap versions from the source vector .svg
 files.
 
 References:
-[0]http://github.com/tylert/csm_logos
 [1]http://gnu.org/software/make
 [2]http://inkscape.org
 [3]http://imagemagick.org
