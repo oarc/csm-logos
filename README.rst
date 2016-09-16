@@ -1,4 +1,4 @@
-Tyler Tidman VA3DGN
+Glenn MacDonnell VE3XRA
 
 Software that was used to create and work with these files:
   - GNU Make (3.81) [5]
